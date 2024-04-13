@@ -91,13 +91,11 @@ public class DronesService {
         DronesManager manager = DronesManagerImpl.getInstance();
 
         try {
-            // Obtener la lista de drones ordenados por horas de vuelo descendente
+            //obtenir la llista de drons odrenats per hores de vol
             List<Dron> dronesOrdenados = manager.listarDronesPorHorasDeVueloDescendente();
 
-            // Devolver respuesta exitosa con la lista de drones
             return Response.status(200).entity(dronesOrdenados).build();
         } catch (Exception e) {
-            // En caso de error, registrar el error y devolver respuesta de error interno del servidor
             //logger.error("Error al listar drones por horas de vuelo descendente", e);
             return Response.status(500).entity("Error intern del servidor").build();
         }
@@ -115,13 +113,11 @@ public class DronesService {
         DronesManager manager = DronesManagerImpl.getInstance();
 
         try {
-            // Obtener la lista de pilotos ordenados por horas de vuelo descendente
+            //obtenir la llista de pilots ordenats por hores de vol descendent
             List<Piloto> pilotosOrdenados = manager.listarPilotosPorHorasDeVueloDescendente();
 
-            // Devolver respuesta exitosa con la lista de pilotos
             return Response.status(200).entity(pilotosOrdenados).build();
         } catch (Exception e) {
-            // En caso de error, registrar el error y devolver respuesta de error interno del servidor
             //logger.error("Error al listar pilotos por horas de vuelo descendente", e);
             return Response.status(500).entity("Error intern del servidor").build();
         }

@@ -12,3 +12,75 @@
 2024-04-12 20:44:12 INFO  DronesManagerImpl:77 - Drones ordenados correctamente
 2024-04-12 20:49:44 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 222
 2024-04-12 20:49:44 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='222', nombre='h', fabricante='er', modelo='re', horasVuelo=0}
+2024-04-13 11:33:27 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 1
+2024-04-13 11:33:27 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='1', nombre='Dron1', fabricante='Fabricante1', modelo='Modelo1', horasVuelo=0}
+2024-04-13 11:33:27 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 2
+2024-04-13 11:33:27 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='2', nombre='Dron2', fabricante='Fabricante2', modelo='Modelo2', horasVuelo=0}
+2024-04-13 11:33:27 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 3
+2024-04-13 11:33:27 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='3', nombre='Dron3', fabricante='Fabricante3', modelo='Modelo3', horasVuelo=0}
+2024-04-13 11:33:27 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:33:27 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:33:27 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:33:27 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:33:27 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:33:27 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:33:27 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:33:27 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:33:27 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 1
+2024-04-13 11:33:27 ERROR DronesManagerImpl:33 - El dron con ID 1 ya existe.
+2024-04-13 11:44:30 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 1
+2024-04-13 11:44:30 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='1', nombre='dron1', fabricante='fabricante1', modelo='modelo1', horasVuelo=0}
+2024-04-13 11:44:30 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 1
+2024-04-13 11:44:30 ERROR DronesManagerImpl:33 - El dron con ID 1 ya existe.
+2024-04-13 11:44:30 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 2
+2024-04-13 11:44:30 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='2', nombre='Dron2', fabricante='Fabricante2', modelo='Modelo2', horasVuelo=0}
+2024-04-13 11:44:30 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 3
+2024-04-13 11:44:30 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='3', nombre='Dron3', fabricante='Fabricante3', modelo='Modelo3', horasVuelo=0}
+2024-04-13 11:44:30 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:44:30 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:44:30 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:44:30 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:44:30 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:44:30 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:44:30 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:44:30 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:45:17 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 5
+2024-04-13 11:45:17 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='5', nombre='dron5', fabricante='fabricante5', modelo='modelo5', horasVuelo=0}
+2024-04-13 11:45:24 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 11:45:24 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 11:45:34 INFO  DronesManagerImpl:72 - Listamos los pilotos por horas de vuelo descendente
+2024-04-13 11:45:34 INFO  DronesManagerImpl:77 - Drones ordenados correctamente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 1
+2024-04-13 13:17:02 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='1', nombre='Dron1', fabricante='Fabricante1', modelo='Modelo1', horasVuelo=0}
+2024-04-13 13:17:02 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 2
+2024-04-13 13:17:02 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='2', nombre='Dron2', fabricante='Fabricante2', modelo='Modelo2', horasVuelo=0}
+2024-04-13 13:17:02 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 3
+2024-04-13 13:17:02 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='3', nombre='Dron3', fabricante='Fabricante3', modelo='Modelo3', horasVuelo=0}
+2024-04-13 13:17:02 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 13:17:02 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 1
+2024-04-13 13:17:02 ERROR DronesManagerImpl:33 - El dron con ID 1 ya existe.
+2024-04-13 13:17:11 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 1
+2024-04-13 13:17:11 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='1', nombre='Dron1', fabricante='Fabricante1', modelo='Modelo1', horasVuelo=0}
+2024-04-13 13:17:11 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 2
+2024-04-13 13:17:11 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='2', nombre='Dron2', fabricante='Fabricante2', modelo='Modelo2', horasVuelo=0}
+2024-04-13 13:17:11 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 3
+2024-04-13 13:17:11 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='3', nombre='Dron3', fabricante='Fabricante3', modelo='Modelo3', horasVuelo=0}
+2024-04-13 13:17:11 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 13:17:11 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 13:17:11 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 13:17:11 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 13:17:11 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 13:17:11 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 13:17:11 INFO  DronesManagerImpl:61 - Listamos los drones por horas de vuelo descendente
+2024-04-13 13:17:11 INFO  DronesManagerImpl:66 - Drones ordenados correctamente
+2024-04-13 13:17:11 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 1
+2024-04-13 13:17:11 ERROR DronesManagerImpl:33 - El dron con ID 1 ya existe.
+2024-04-13 13:17:39 INFO  DronesManagerImpl:29 - Vamos a añadir un dron con id 12
+2024-04-13 13:17:39 INFO  DronesManagerImpl:41 - Dron añadido correctamente: Dron{id='12', nombre='12', fabricante='12', modelo='12', horasVuelo=0}

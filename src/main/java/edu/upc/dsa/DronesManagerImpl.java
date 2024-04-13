@@ -74,7 +74,7 @@ public class DronesManagerImpl implements DronesManager{
         Comparator<Piloto> comparadorAscendent = Comparator.comparingInt(Piloto::getHorasVuelo);
         Collections.sort(pilotosOrdenados, comparadorAscendent);
         Collections.reverse(pilotosOrdenados);
-        logger.info("Drones ordenados correctamente");
+        logger.info("Pilotos ordenados correctamente");
         return pilotosOrdenados;
     }
 

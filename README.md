@@ -10,6 +10,6 @@ ESTAT MÍNIM 1 JANA CORSELLAS
 
 - El codi em compila i el swagger funcionen totes les funcions
 
-- Faltaria fer el test més desenvolupat
+- El test està desenvolupat i funciona
 
 
